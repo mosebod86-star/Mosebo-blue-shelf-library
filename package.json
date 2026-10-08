@@ -2,6 +2,7 @@
   "name": "blueshelf-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mosebod86-star.github.io/Mosebo-blue-shelf-library",
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
@@ -16,9 +17,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
