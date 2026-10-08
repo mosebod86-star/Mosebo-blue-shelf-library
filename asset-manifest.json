@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mosebo-blue-shelf-library/static/css/main.0f7a6848.css",
+    "main.js": "/Mosebo-blue-shelf-library/static/js/main.f446ec1b.js",
+    "index.html": "/Mosebo-blue-shelf-library/index.html",
+    "main.0f7a6848.css.map": "/Mosebo-blue-shelf-library/static/css/main.0f7a6848.css.map",
+    "main.f446ec1b.js.map": "/Mosebo-blue-shelf-library/static/js/main.f446ec1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f7a6848.css",
+    "static/js/main.f446ec1b.js"
+  ]
+}
